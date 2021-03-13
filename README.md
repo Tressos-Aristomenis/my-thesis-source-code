@@ -1,4 +1,4 @@
-# my-thesis-source-code
+# My Thesis' Source Code
 
 I wrote my thesis in LateX using the [Overleaf](https://overleaf.com/) editor and converted the project to pdf format.
 
